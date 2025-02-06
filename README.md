@@ -10,3 +10,6 @@ Overall, the dashboard of a supply chain management visualization serves as a po
 
 Link to the dashboard:
 https://public.tableau.com/app/profile/prajwal.nagendra.srivatsa/viz/SupplyChainDashboardTeam16/Dashboard1#2
+
+Link to the DataSet:
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis?resource=download
